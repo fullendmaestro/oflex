@@ -1,2 +1,19 @@
-/target
-/app/onote_agent/target
+# Node modules directory
+**/node_modules/
+
+# Build output
+**/dist/
+**/build/
+**/out/
+**/target/
+
+# Vite cache
+**/.vite/
+
+# Logs
+*.log
+
+# IDE and editor files
+.idea/
+.vscode/
+
